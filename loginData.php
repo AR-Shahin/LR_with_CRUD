@@ -19,9 +19,4 @@ if(isset($_POST['btn'])){
         header("location:index.php");
     }
 }
-
-
-
-
-
 ?>
